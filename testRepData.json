@@ -1,0 +1,52 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "team1",
+      "children": [
+        {
+          "name": "subteam1",
+          "children": [
+            {
+              "name": "Process1",
+              "value": 3938
+            },
+            {
+              "name": "Process2",
+              "value": 3812
+            },
+            {
+              "name": "Process3",
+              "value": 6714
+            },
+            {
+              "name": "Process4",
+              "value": 743
+            }
+          ]
+        },
+        {
+          "name": "subteam2",
+          "children": [
+            {
+              "name": "Process5",
+              "value": 3938
+            },
+            {
+              "name": "Process6",
+              "value": 3812
+            },
+            {
+              "name": "Process7",
+              "value": 6714
+            },
+            {
+              "name": "Process8",
+              "value": 743
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
